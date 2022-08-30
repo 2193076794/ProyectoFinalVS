@@ -130,6 +130,7 @@
     <ClCompile Include="ProyectoFinalVS.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ClaseElectronica.h" />
     <ClInclude Include="decoraciones.h" />
     <ClInclude Include="decoraciones_Cuadros.h" />
     <ClInclude Include="decoraciones_Figura.h" />

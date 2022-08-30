@@ -5,6 +5,7 @@
 #include "decoraciones_Figura.h"
 #include "decoraciones_Florero.h"
 #include "empleados.h"
+#include "ClaseElectronica.h"
 
 using namespace std;
 

@@ -44,5 +44,8 @@
     <ClInclude Include="empleados.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="ClaseElectronica.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
